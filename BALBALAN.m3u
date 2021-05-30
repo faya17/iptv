@@ -1,0 +1,1100 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="SPORTS usee//vidio", ChampionTV 1 (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6685
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="SPORTS usee//vidio", ChampionTV 2 (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6686
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS usee//vidio", ChampionTV 3 (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS usee//vidio", Champion TV 1 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=champion1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS usee//vidio", Champion TV 2 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=champion2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS usee//vidio", UseeSports 1 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=useesport
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS usee//vidio", UseeSports 2 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=useesports2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS usee//vidio", Bein Sport 1 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=bein1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS usee//vidio", bein Sport 2 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=bein2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS usee//vidio", Fox Sport 1 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=foxsport1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS usee//vidio", Fox Sport 2 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=foxsport2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS usee//vidio", Fox Sport 3 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=foxsport3
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="SPORTS usee//vidio", Golf 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=golfplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="SPORTS usee//vidio", NBA
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=nba
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN PREMUIM 1 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5651 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN PREMUIM 2 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5650 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN PREMUIM 3 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5649 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN SPORT 1 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5658 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN SPORT 2 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/37619 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN SPORT 3 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5656 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN SPORT 4 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5655 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN SPORT 5 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5654 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN SPORT 6 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5653 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS FHD ###",BEIN SPORT 7 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/5652
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS  News HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/1884 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/1885 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS NBA HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/63912 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN PREMUIM 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/668 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN PREMUIM 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/669 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN PREMUIM 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/666 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN PREMUIM 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/667 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN PREMUIM 3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/664 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN PREMUIM 3 HD  
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/665 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",beIN SPORTS HD1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/682 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",beIN SPORTS HD2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/1711 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",beIN SPORTS HD3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/679 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",beIN SPORTS HD4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/677 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",beIN SPORTS HD5 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/675 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",beIN SPORTS HD6 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/673 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",beIN SPORTS HD7 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/671 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS XTRA 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/63913 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS ENGLISH 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/63916 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS ENGLISH 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/63914 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS ENGLISH 3 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/63915 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS FRENCH 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/63917 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS FRENCH 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/63918 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/681 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/680 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS 3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/678 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS 4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/676 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS 5 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/674 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS 6 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/672 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HD ###",BEIN SPORTS 7 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/670
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BEIN PREMUIM 1 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58417 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BEIN PREMUIM 2 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58418 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BEIN PREMUIM 3 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58419 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BIENSPORT 1 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58410 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BIENSPORT 2 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58411 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BIENSPORT 3 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58412 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BIENSPORT 4 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58413 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BIENSPORT 5 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58414 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BIENSPORT 6 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58415 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### beIN SPORTS HEVEC ###",BIENSPORT 7 H265 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58416
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",### CANALES LIGA ### 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38436 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. LIGA HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38437 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",LALIGATV BAR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38438 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",LA LIGA TV BAR HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38439 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M Liga de Campeones HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38440 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 1 HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38441 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 2  HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38442 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 3 HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38443 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 4 HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38444 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 5 HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38445 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 6 HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38446 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 7 HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38447 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. Liga de campeones 8 HD (Solo Eventos) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38448 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",###  M  DEPORTES ### 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38449 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",TELEDEPORTE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38450 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. DEPORTE 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38451 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. DEPORTE 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38452 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",Movistar+ F1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38453 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M. GOLF HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38454 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",BARCA TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38455 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",Realmadrid TV HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38456 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",mega 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38457 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",C+ FUTBOL HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38458 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",GOL TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38459 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M.FORMULA1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38460 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",EUROSPORT 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38461 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",Eurosport 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38462 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M.Liga De Campeones HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38463 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M.MOTOGP HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38464 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",M.FORMULA 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38465 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",tdp HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38466 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",DAZN 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38469 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### LALIGA ###",DAZN 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38470
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",BEINSPORT1FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/544 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",BEINSPORT2FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/543 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",BEINSPORT3FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/542 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",Bein Sport Max 4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3187 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",Bein Sport Max 5 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3186 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",Bein Sport Max 6 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3185 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",Bein Sport Max 7 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3184 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",Bein Sport Max 8 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3183 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",Bein Sport Max 9 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3182 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",Bein Sport Max 10 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3181 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",RMC SPORT 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/541 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",RMC SPORT 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/540 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",RMC SPORT 3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/539 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",RMCSPORT4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/538 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",RMC SPORT 5 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3215 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",EUROSPORT  2 FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/537 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",EUROSPORT 1 FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/536 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",EXTREME SPORTS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/535 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",AB MOTORS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/475 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",INFOSPORT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/534 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",L'EQUIPE 21 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/533 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",EQUIDIA LIVE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/531 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS FRANCH ###",GOLF CHANNEL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/530
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",## |DE| SPORT ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38890 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",KY - SPORT NEWS HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38891 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",KY - SPORT 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38892 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",KY - BUNDESLIGA 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38894 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",- KY BUNDESLIGA 2 HD  
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38895 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",KY BUNDESLIGA 3 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38896 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",- KY BUNDESLIGA 4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38897 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",- KY BUNDESLIGA 5 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38898 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",- KY BUNDESLIGA 6 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38899 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",- KY BUNDESLIGA 7 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38900 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",- KY BUNDESLIGA 8 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38901 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",EUROSPORT 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38902 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",EUROSPORT 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38903 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",EUROSPORT 2 HD XTRA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38904 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",MOTORVISION TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38905 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS GERMANY ###",SPORT1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38906
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",---  SPORT UK --- 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38641 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",BT Sports 1 | HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38642 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",BT Sports 2 | HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38643 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",BT Sports 3 | HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38644 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",MUTV HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38645 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",KY SPORT NEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38646 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",KY SPORT ACTION 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38647 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",KY SPORT FOOTBALL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38648 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",KY SPORT F1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38649 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",KY SPORT MAIN EVENT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38650 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",KY SPORT MIX 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38651 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",KY SPORT PREMIER LEAGUE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38652 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",EIR SPORT 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38653 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",EIR SPORT 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38654 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",EUROSPORT 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38655 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS UK ###",EUROSPORT 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38656
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",## SPORTS US ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39077 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",beINSPORT US 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39089 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",ESPN 1HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39090 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",ESPN 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39091 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",ESPN 3HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39079 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",ESPN U HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39081 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",ESPNEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39082 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",ESPN DEPORTES HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39080 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",FOX SPORT 1HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39084 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",FOX SPORT 2HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39085 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",FOX DEPORTES 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39086 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",NBA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39083 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",NBA 3  MATCH EVENT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39095 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",NBA 6  MATCH EVENT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39096 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",NFL NETWORK HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39087 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",DESTINATION AMERICA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39078 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",CBS SPORTS NET 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39088 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",WWE FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39092 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",UFC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39157 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",MLB HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39093 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",Tennis Channel HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39094 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",NBC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39097 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",NBC GOLF 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39098 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",NHL HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39099 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS US ###",GOLF HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39100
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR BEIN SPORT 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36941 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR BEIN SPORT 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36942 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR BEIN SPORT 3 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36943 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR BEIN SPORT 4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36944 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR BEIN SPORTS MAX 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36947 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR BEIN SPORTS MAX 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36948 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR SMART SPOR HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36951 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR SARAN SPORT HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36953 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR TIVIBU SPOR 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36955 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR TIVIBU SPOR 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36956 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR TIVIBU SPOR 3 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36957 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",TR TRT SPOR HD  
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36960 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",Finerbache TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36963 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",Galatasaray TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/36965 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### SPORTS TURKEY ###",A Spor 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/37095
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",## GENERAL FR  ### 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38553 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TF1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/594 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",M6 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/593 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",FRANCE 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/592 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",FRANCE 3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/591 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",FRANCE 4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/590 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",FRANCE 5 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/589 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",FRANCE O 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/588 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",W9 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/585 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",ARTE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/479 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TV5  MONDE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/478 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",NRJ12 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/584 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",NT1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/583 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",HD1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/582 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CHERIE 25 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/581 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TMC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/580 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CSTAR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/578 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",6TER 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/577 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",NUMERO 23 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/576 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",RTL9 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/575 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",AB1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/574 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",SYFYFR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/572 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",13EME RUE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/571 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TV BREIZH 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/570 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",EENTERTAINMENTFR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/569 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",COMEDIE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/568 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",ELLE GIRL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/567 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",##  CANAL+ ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38554 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CANAL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/565 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CANAL  CINEMA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/564 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CANAL  FAMILY 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/563 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CANAL  DECALE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/562 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CANAL  SERIES 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/561 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CANAL  SPORT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/560 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE   PREMIER 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/559 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE  EMOTION 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/558 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE  FRISSON 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/557 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE  FAMIZ 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/556 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE  CLASSIC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/555 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE  CLUB 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/554 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE FX 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/553 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CINE POLAR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/552 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",OCS CHOC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/551 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",OCS CITY 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/550 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",OCS GEANTS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/549 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",OCS MAX
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/548 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TCM CINEMA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/547 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",ACTION 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/546 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TF1 SERIES 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/62830 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",PARAMOUNT CHANNE FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/545 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",##   SPORT FR   ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38556 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",BEINSPORT1FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/544 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",BEINSPORT2FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/543 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",BEINSPORT3FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/542 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Bein Sport Max 4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3187 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Bein Sport Max 5 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3186 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Bein Sport Max 6 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3185 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Bein Sport Max 7 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3184 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Bein Sport Max 8 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3183 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Bein Sport Max 9 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3182 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Bein Sport Max 10 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3181 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",RMC SPORT 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/541 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",RMC SPORT 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/540 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",RMC SPORT 3 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/539 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",RMCSPORT4 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/538 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",RMC SPORT 5 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3215 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",EUROSPORT  2 FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/537 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",EUROSPORT 1 FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/536 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",EXTREME SPORTS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/535 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",AB MOTORS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/475 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",INFOSPORT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/534 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",L'EQUIPE 21 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/533 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",EQUIDIA LIVE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/531 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",GOLF CHANNEL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/530 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",##  KIDS  FR  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38555 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",DISNEY CHANNEL FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/511 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",DISNEY CINEMA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/510 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",DISNEY JUNIOR FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/509 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",DISNEY XD FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/508 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CARTOON   NETWORK 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/496 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",BOOMERANG FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/495 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",GAME ONE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/494 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MANGAS TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/493 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",NICKELODEONFR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/492 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",NICKELODEON JUNIOR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/491 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TELETOON 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/490 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CANAL J 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/489 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",GULLI 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/488 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",PIWI 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/487 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TIJI 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/486 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",BOING FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/485 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",##    CULTURE / VOYAGE  FR  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38557 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",NATIONALGEOGRAPHICFR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/528 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",NATIONALGEOWILDFR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/527 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",DISCOVERY FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/526 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",DISCOVERY SCIENCE FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/525 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",DISCOVERY INVESTIGATION 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/524 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",Disc Family HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/3189 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",ANIMAUX 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/522 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",RMCDECOUVERTE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/521 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",PLANETE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/520 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",PLANETE AE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/519 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",PLANETE CI 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/518 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CRIME DISTRICT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/517 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",SCIENCES & VIE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/516 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",USHUAIA TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/515 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",VOYAGE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/514 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",HISTOIRE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/513 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",SEASON 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/512 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",##  NEWS   FR  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38558 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",c8 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/58589 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",FRANCEINFO 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/484 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",EURONEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/482 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",BFM TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/481 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",CNEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/47375 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",LCI 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/47376 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",BFM BUSINESS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/480 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",FRANCE24 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/477 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",I24NEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/476 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",##   ENTERTAINMENT  FR  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38559 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MTV FRANCE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/507 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TREK 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/523 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TRACE URBAN 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/506 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",TRACE TROPICAL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/505 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MCM 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/503 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MCM  TOP 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/502 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MTV HITS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/501 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MEZZO FR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/498 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MEZZO LIVE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/497 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### FRANCH ###",MICKEY CHANNEL TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/1931 
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",##  BBC  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38560 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BBC 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38561 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BBC 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38562 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BBC 4 HD / CBEEBIES HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38563 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BBC NEWS HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38564 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BBC ONE SCOTTLAND HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38565 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BBC ONE WALES HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38566 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",##  UK KIDS  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38567 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BABY TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38568 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BLOOMBERG HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38569 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CARTOON NETWORK 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38570 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BOOMERANG 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38571 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CARTOON NETWORK HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38572 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",DISNEY CHANNEL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38573 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",DISNEY JUNIOR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38574 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",DISNEY XD HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38577 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",NICK HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38578 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",NICK JUNIOR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38580 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",NICK TOONS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38582 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",NICKELODEON EUROPE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38583 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",##  MOVIES UK  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38584 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA ACTION  
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38585 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY ATLANTIC HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38586 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA ACTION MAN FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38587 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA COMEDY FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38588 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA DISNEY FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38589 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA DRAMA & ROMANCE FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38590 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY  CINEMA FAMILY FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38591 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA GREATS FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38592 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA HEROES FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38593 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA PREMIER FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38594 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA SCI-FI FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38595 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA SELECT FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38596 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY CINEMA THRILLER FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38597 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY ONE HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38598 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TRUE MOVIES 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38599 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TRUE MOVIES 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38600 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",Star Gold 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38601 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",SYFY HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38602 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TCM HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38603 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",FILM 4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38604 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",FOX HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38605 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CBS DRAMA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38606 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CBS ACTION 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38607 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CBS REALITY 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38608 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CBS REALITY 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38609 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CHANNEL 4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38610 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CHANNEL 5 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38611 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",COMEDY CENTRAL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38612 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",COMEDY CENTRAL EXTRA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38613 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",COMEDY CENTRAL HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38614 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",##  MUSIC  UK  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38615 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MORE 4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38616 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",LIFETIME HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38617 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",Movies4men 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38618 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV BASE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38619 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV CLASSIC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38620 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV DANCE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38621 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38622 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV HITS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38623 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV LIVE HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38624 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV MUSIC UK 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38625 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV ONE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38626 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MTV ROCKS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38627 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",## ENTERTAINMENT UK ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38628 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TG 4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38629 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TINY POP 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38630 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TINY POP  1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38631 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TLC HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38632 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TRAVEL HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38633 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",TRUE ENTERTAINMENT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38634 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",##  CULTURE UK ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38635 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",NAT GEO HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38636 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",NAT GEO WILD FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38637 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",DISCOVERY HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38638 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ANIMAL PLANET HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38639 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CI HD (CRIME AND INVESTIGATION) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38640 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",---  SPORT UK --- 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38641 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BT Sports 1 | HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38642 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BT Sports 2 | HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38643 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BT Sports 3 | HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38644 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",MUTV HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38645 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY SPORT NEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38646 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY SPORT ACTION 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38647 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY SPORT FOOTBALL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38648 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY SPORT F1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38649 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY SPORT MAIN EVENT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38650 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY SPORT MIX 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38651 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",KY SPORT PREMIER LEAGUE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38652 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",EIR SPORT 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38653 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",EIR SPORT 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38654 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",EUROSPORT 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38655 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",EUROSPORT 2 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38656 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",##  ITV UK  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38657 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ITV 1 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38658 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ITV 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38659 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ITV 3 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38660 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ITV 4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38661 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ITV BE HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38662 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ITV ENCORE HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38663 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ITV LONDON HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38664 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",## GENERALUK  ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38665 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",5STAR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38666 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",ALIBI HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38667 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",AMC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38668 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",BLAZE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38669 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",CW HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38670 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",DAVE HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38671 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",E4 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38672 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",EDEN HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38673 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",Gold Plus 1 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38674 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",GOOD FOOD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38675 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",HISTORY 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38676 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",HISTORY HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38677 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",Home & Health 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38678 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",INVESTIGATION DISCOVERY (ID) 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38679 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",HORROR CHANNEL 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38680 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",REALLY UK 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38685 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",RT AMERICA HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38686 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",RTE JUNIOR 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38687 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",RTE NEWS HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38688 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",RTE ONE HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38689 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",RTE TWO HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38690 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED KINGDOM ###",UNIVERSAL HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/38691
+
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",### USA  ### 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39060 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ABC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39061 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",CW HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39062 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",5 STAR MAX FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39063 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",CBS HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39064 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",TBS HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39065 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",USA Network 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39066 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",BTN 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39067 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",## NEWS ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39068 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",CNN HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39069 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ABC 7 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39070 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",BLOOMBERG TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39071 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",CNBC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39072 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Fox News HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39073 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",GSN HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39074 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ABC NEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39075 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",The Weather Channel 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39076 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",## SPORTS US ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39077 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",beINSPORT US 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39089 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ESPN 1HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39090 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ESPN 2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39091 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ESPN 3HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39079 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ESPN U HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39081 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ESPNEWS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39082 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ESPN DEPORTES HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39080 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",FOX SPORT 1HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39084 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",FOX SPORT 2HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39085 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",FOX DEPORTES 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39086 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NBA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39083 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NBA 3  MATCH EVENT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39095 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NBA 6  MATCH EVENT 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39096 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NFL NETWORK HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39087 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",DESTINATION AMERICA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39078 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",CBS SPORTS NET 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39088 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",WWE FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39092 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",UFC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39157 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",MLB HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39093 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Tennis Channel HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39094 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NBC 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39097 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NBC GOLF 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39098 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NHL HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39099 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",GOLF HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39100 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",## MOVIES US ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39101 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ACTION MAX 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39102 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ACTIONMAX HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39103 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",AMC HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39104 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Cinemax East HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39105 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",CINEMAX HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39106 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",EL REY  HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39107 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",TNT HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39108 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",HALLMARK HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39109 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",HBO COMEDY HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39110 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",HBO FAMILY FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39111 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",HBO SIGNATURE HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39112 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Lifetime Movies HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39113 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",MoreMax HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39114 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",SHOWTIME HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39115 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",SHOWTIME 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39116 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",STARZ WEST 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39117 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",STARZ CINEMA 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39118 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",STARZ CINEMA  HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39119 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",FX TV HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39121 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",HBO FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39122 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",HBO ZONE 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39123 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",COMEDY CENTRAL HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39127 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",## ENTERTAINMENT US ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39124 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",A&E 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39125 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",FOOD NETWORK HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39120 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",E! 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39128 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Syfy HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39129 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",DAYSTAR TV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39130 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",DIY Network 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39131 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Fox HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39132 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",FXX 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39133 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",SPIKE TV HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39134 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",TLC HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39135 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Viceland 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39136 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",## KIDS AND FAMILY ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39137 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",FREEFROM 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39138 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NICKTOONS 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39139 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Cartoon Network 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39140 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Disney Channel FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39141 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",MSNBC FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39142 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",Nick 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39143 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",## LIFESTYLE US ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39144 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",ANIMAL PLANET HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39145 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",DISCOVERY  FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39146 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",CRIME INVESTIGATION HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39147 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",DISCOVERY SC HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39148 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",H2 HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39149 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",HISTORY HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39150 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NAT GEO 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39151 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",NAT GEO WILD HD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39152 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",TRAVEL Channel 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39153 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",## MUSIC US ## 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39154 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",MTV 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39155 
+#EXTINF:-1 tvg-logo="https://static.hercegovina.info/img/repository/2018/01/image_1024x1024/2_17704365.png" group-title="### UNITED STATES ###",VH1 FHD 
+http://xtra.xcs521.cz:8080/00:1A:79:17:01:25/ziajdjjfdifjd64646/39156
+
+
+
