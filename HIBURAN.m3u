@@ -1,0 +1,217 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://i.ibb.co/3SHxS6G/cbioskop.png" group-title="ENTERTAINMENT usee//vidio", Citra Bioskop (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6684
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tB94HBL/center.png" group-title="ENTERTAINMENT usee//vidio", Citra Entertainment (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6402
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Dunia Lain 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=dunialain
+#EXTINF:-1 tvg-id="citradrama" tvg-name="tes" tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.15" group-title="ENTERTAINMENT usee//vidio", Citra Drama 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=cdrama
+#EXTINF:-1 tvg-id="citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/DtJ1jkg/citradrama.png" group-title="ENTERTAINMENT usee//vidio", Citra Drama (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6401
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDSdMw2/citra.png" group-title="ENTERTAINMENT usee//vidio", Citra Dangdut (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6587
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Warner 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=warner
+#EXTINF:-1 tvg-id="blueant" tvg-name="blueant" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="ENTERTAINMENT usee//vidio", Blue ant entertainmet
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=blueant
+#EXTINF:-1 tvg-id="blueantextreme" tvg-name="blueantextreme" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="ENTERTAINMENT usee//vidio", Blue ant extreme
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=blueantextreme
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", AXN 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=axn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Chinese Drama 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-chinesedrama
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Kix 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=kix
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Waku Waku Japan 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=wakuwaku
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", K+ 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=kplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Sony GEM TV 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=sgem
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Sony One 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=sone
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", Aniplus 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=aniplus
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="ENTERTAINMENT usee//vidio", Animax 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=animax
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="ENTERTAINMENT usee//vidio", KBS World 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=kbsworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="ENTERTAINMENT usee//vidio", ABC Australia 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-abcaustralia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="ENTERTAINMENT usee//vidio", Lifetime 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=lifetime
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ctiasia_small.png" group-title="ENTERTAINMENT usee//vidio", Ctiasia
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=ctiasia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", CCTV4 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-cctv4
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png?v=2.0.0.13" group-title="ENTERTAINMENT usee//vidio", NHK World Japan 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-nhkworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="ENTERTAINMENT usee//vidio", Arirang 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-arirang
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="MOVIES usee//vidio", Bioskop Indonesia 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=bioskopindonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="MOVIES usee//vidio", ZBioskop 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=zbioskop
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="MOVIES usee//vidio", TVN 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=tvn
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MOVIES usee//vidio", TVN MOVIES
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=tvnmovies
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MOVIES usee//vidio", Thrill 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=thrill
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MOVIES usee//vidio", Celestial Movie 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=celestialmovie
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES usee//vidio", Cinema World 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=cinemaworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES usee//vidio", Flik 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=flik
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES usee//vidio", Galaxy 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=galaxy
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES usee//vidio", Galaxy Premium 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=galaxypremium
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES usee//vidio", IMC 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=imc
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="KNOWLEDGE usee//vidio", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE usee//vidio", Smithsonian (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6550
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="KNOWLEDGE usee//vidio", Love Nature (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6635
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE usee//vidio", National Geographic 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeo
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="KNOWLEDGE usee//vidio", Nat Geo People
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeopeople
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="KNOWLEDGE usee//vidio", Nat Geo Wild 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=natgeowild
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="KNOWLEDGE usee//vidio", Discovery Channel 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=disco
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="KNOWLEDGE usee//vidio", CGTN Documentary 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-cgtndocumentary
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="KNOWLEDGE usee//vidio", Crime Investigation
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-crimeinvestigation
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="KNOWLEDGE usee//vidio", History
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-history
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="KNOWLEDGE usee//vidio", Lingua
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-lingua
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="LIFESTYLE usee//vidio", Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indishopping_small.png" group-title="LIFESTYLE usee//vidio", Indihome Shopping 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-indishopping
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png?v=1.1" group-title="LIFESTYLE usee//vidio", M Shop 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mncshop
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="LIFESTYLE usee//vidio", Eat & Go 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=eatgo
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="LIFESTYLE usee//vidio", Asian Food Network 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=afc
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="LIFESTYLE usee//vidio", FASHION TV
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-fashiontv
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png" group-title="LIFESTYLE usee//vidio", HGTV 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-hgtv
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS usee//vidio", M Kidz 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mykids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bg764mY/hiphip.png" group-title="KIDS usee//vidio", HipHip Horee (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7052
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS usee//vidio", Baby First 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=babyfirst
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="KIDS usee//vidio", Horee 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=horee
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS usee//vidio", Boomerang 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=boomerang
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS usee//vidio", Cartoon Network 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=cartoonnetwork
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS usee//vidio", Dunia Anak 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=duniaanak
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS usee//vidio", Nick Junior 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=nickjr
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS usee//vidio", Nickelodeon 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=nickelodeon
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS usee//vidio", Da Vinci Learning 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=davinci
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS usee//vidio", Dreamworks 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=dreamworks
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFvGNrB/zoomoo.png" group-title="KIDS usee//vidio", Zoo Moo (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6533
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png" group-title="KIDS usee//vidio", DaVinci (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6549
+
+#EXTINF:-1 tvg-logo="https://s3.envato.com/files/1517851/Video_Preview_Image.jpg" group-title="Music", Showbiz
+http://210.210.155.35/x6bnqe/s/s113/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="Music", Citra Dangdut 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=citradangdut
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="Music", MTV Live 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mtvlive
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music", Prambors 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-pramborstv
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="NEWS usee//vidio", CNBC Indonesia 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-cnbcindonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcasias_small.png" group-title="NEWS usee//vidio", CNBC Asia 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=cnbcasia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="NEWS usee//vidio", CNN Indonesia
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=cnnindonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnninternational_small.png" group-title="NEWS usee//vidio", CNN International
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=cnninternational
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="NEWS usee//vidio", Aljazeera 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=aljazeera
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="NEWS usee//vidio", IDX 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-idx
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="NEWS usee//vidio", abc australia 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-abcaustralia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="NEWS usee//vidio", DW (English) 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-dwtv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="NEWS usee//vidio", France 24 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-france24
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="NEWS usee//vidio", CNA 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="NEWS usee//vidio", TRT World 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-trtworld
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="NEWS usee//vidio", Bloomberg 
+http://home-tv.my.id/RHS/mei3021mpd.m3u8?channel=blomberg
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="NEWS usee//vidio", EuroNews 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-euronews
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PFTLKT7/aljazeera.png" group-title="NEWS usee//vidio", Aljazeera (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6410
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6m3Kf7H/euronews.png" group-title="NEWS usee//vidio", EuroNews (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6412
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JSWx2N/dw.png" group-title="NEWS usee//vidio", DW (English) (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-5075
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sW85XB1/abc.png" group-title="NEWS usee//vidio", ABC Australia (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7150
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRR0PWX/cmuslim.png" group-title="RELIGI usee//vidio", Citra Muslim (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6678
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI usee//vidio", Rodja TV 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-rodjatv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI usee//vidio", Tawaf TV 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-tawaftv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png?v=2.0.0.13" group-title="RELIGI usee//vidio", MTA TV 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mtatv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png?v=2.0.0.13" group-title="RELIGI usee//vidio", MUI TV 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-muitv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="RELIGI usee//vidio", AL Quran AL Kareem 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-alquran
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="RELIGI usee//vidio", MQTV 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-mqtv
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="RELIGI usee//vidio", TV9 NU 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-tv9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="RELIGI usee//vidio", Muhammadiyah TV 
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=usee-muhammadiyahtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnjZHs3/ajwa.png" group-title="RELIGI usee//vidio", Ajwa TV (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-7464
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpDVM0G/quran.png" group-title="RELIGI usee//vidio", AL Quran AL Kareem (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6852
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G1jXkP/r21.png" group-title="RELIGI usee//vidio", Reformed 21 (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6853
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbkHsSv/uchan.png" group-title="RELIGI usee//vidio", U Channel (Vidio)
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6898
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="RELIGI usee//vidio", Mekkah tv
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-DpXhZwFlarg/VhjRXXJb5cI/AAAAAAAADhA/zKoI34QxQB8/s1600/madinah.png" group-title="RELIGI usee//vidio", Madinah tv
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
